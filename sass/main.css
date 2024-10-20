@@ -3,6 +3,14 @@ body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
+header {
+  background-color: azure;
+}
+
+.foter {
+  background-color: rgb(4, 0, 56);
+}
+
 .img1 {
   width: 100%;
 }
@@ -11,6 +19,10 @@ body {
   margin: 8px;
 }
 
+.background23 {
+  background-color: greenyellow;
+  color: rgba(0, 73, 73, 0.738);
+=======
 .li-1 {
   width: 320px;
   height: 320px;
