@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.img1 {
+  width: 100%;
+}
+
+.text1 {
+  margin: 8px;
+}
+
+header {
+  background-color: azure;
+}
+
+.foter {
+  background-color: rgb(4, 0, 56);
+}/*# sourceMappingURL=main.css.map */
