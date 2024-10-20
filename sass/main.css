@@ -11,8 +11,26 @@ body {
   margin: 8px;
 }
 
+.li-1 {
+  width: 320px;
+  height: 320px;
+  background-color: aquamarine;
+  border-radius: 20px;
+}
+.li-1 .img {
+  text-align: center;
+  margin-left: 20px;
+  background-color: none;
+}
+
 header {
-  background-color: azure;
+  background-color: #566573;
+}
+
+.li-header {
+  list-style: none;
+  font-family: "Agdasima", sans-serif;
+  color: black;
 }
 
 .baground {
