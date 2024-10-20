@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"version":3,"sources":["components/_body.scss","main.css","components/_section.scss","components/_page-header.scss","components/_footer.scss"],"names":[],"mappings":"AAAA;EACI,SAAA;EACA,4DAAA;ACCJ;;ACHA;EACI,WAAA;ADMJ;;ACFA;EACI,WAAA;ADKJ;;ACFA;EACI,YAAA;EACA,aAAA;EACA,4BAAA;EACA,mBAAA;ADKJ;ACHI;EACI,kBAAA;EACA,iBAAA;EACA,sBAAA;ADKR;;AEvBA;EACI,yBAAA;AF0BJ;;AEvBA;EACI,gBAAA;EACA,mCAAA;EACA,YAAA;AF0BJ;;AGjCA;EACI,+BAAA;AHoCJ","file":"main.css"}
-=======
-{"version":3,"sources":["components/_body.scss","main.css","components/_section.scss","components/_page-header.scss","components/_footer.scss"],"names":[],"mappings":"AAAA;EACI,SAAA;EACA,4DAAA;ACCJ;;ACHA;EACI,WAAA;ADMJ;;ACFA;EACI,WAAA;ADKJ;;AEXA;EACI,uBAAA;AFcJ;;AEZA;EACI,UAAA;AFeJ;;AGnBA;EACI,+BAAA;AHsBJ","file":"main.css"}
->>>>>>> main
+{"version":3,"sources":["components/_body.scss","main.css","components/_section.scss","components/_page-header.scss","components/_footer.scss"],"names":[],"mappings":"AAAA;EACI,SAAA;EACA,4DAAA;ACCJ;;ACHA;EACI,WAAA;ADMJ;;ACFA;EACI,WAAA;ADKJ;;ACFA;EACI,YAAA;EACA,aAAA;EACA,4BAAA;EACA,mBAAA;ADKJ;ACHI;EACI,kBAAA;EACA,iBAAA;EACA,sBAAA;ADKR;ACFI;EACI,qBAAA;EACA,mDAAA;ADIR;;AE3BA;EACI,yBAAA;AF8BJ;;AE3BA;EACI,gBAAA;EACA,mCAAA;EACA,YAAA;AF8BJ;;AGrCA;EACI,+BAAA;AHwCJ","file":"main.css"}
