@@ -22,4 +22,33 @@ header {
 .background23 {
   background-color: greenyellow;
   color: rgba(0, 73, 73, 0.738);
+=======
+.li-1 {
+  width: 320px;
+  height: 320px;
+  background-color: aquamarine;
+  border-radius: 20px;
+}
+.li-1 .img {
+  text-align: center;
+  margin-left: 20px;
+  background-color: none;
+}
+
+header {
+  background-color: #566573;
+}
+
+.li-header {
+  list-style: none;
+  font-family: "Agdasima", sans-serif;
+  color: black;
+}
+
+.baground {
+  color: RED;
+}
+
+.foter {
+  background-color: rgb(4, 0, 56);
 }/*# sourceMappingURL=main.css.map */
