@@ -34,8 +34,12 @@ header {
   margin-left: 20px;
   background-color: none;
 }
+.li-1 .li-1:hover {
+  transform: scale(1.2);
+  transition: cubic-bezier(0.455, 0.03, 0.515, 0.955);
+}
 
-header {
+body {
   background-color: #566573;
 }
 
@@ -43,10 +47,6 @@ header {
   list-style: none;
   font-family: "Agdasima", sans-serif;
   color: black;
-}
-
-.baground {
-  color: RED;
 }
 
 .foter {
