@@ -11,12 +11,12 @@ body {
   margin: 8px;
 }
 
-header {
+.header {
   background-color: azure;
 }
 
 .baground {
-  color: RED;
+  color: red;
 }
 
 .foter {
